@@ -25,7 +25,7 @@ SECRET_KEY = '+kotv_sh_%y_!rq(=97cg%nh+fiy70&(&%7l&uw*8+-t-8mubn'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<your_username>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'sophialauren10.pythonanywhere.com']
 
 
 # Application definition
